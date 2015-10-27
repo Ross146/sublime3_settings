@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Highlighter",
+		"Emmet",
+		"Package Control",
+		"SideBarEnhancements",
+		"Stylus",
+		"SyncedSideBar"
+	]
+}
